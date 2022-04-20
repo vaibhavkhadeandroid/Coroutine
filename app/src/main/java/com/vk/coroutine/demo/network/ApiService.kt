@@ -1,10 +1,8 @@
 package com.vk.coroutine.demo.network
 
-import com.vk.coroutine.demo.viewmodels.LoginResponce
-import retrofit2.Call
+import com.vk.coroutine.demo.model.LoginResponce
 import retrofit2.http.Field
 import retrofit2.http.FormUrlEncoded
-import retrofit2.http.GET
 import retrofit2.http.POST
 
 
